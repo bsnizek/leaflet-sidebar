@@ -1,6 +1,6 @@
 {
   "name": "leaflet-sidebar",
-  "version": "0.1.8",
+  "version": "0.1.8b",
   "homepage": "https://github.com/turbo87/leaflet-sidebar",
   "authors": [
     "Tobias Bieniek <tobias.bieniek@gmx.de>"
@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "leaflet": "~0.7"
+    "leaflet": "Leaflet/Leaflet#1.0.0-beta.2"
   },
   "ignore": [
     "node_modules"
